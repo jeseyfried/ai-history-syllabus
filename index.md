@@ -8,4 +8,4 @@ date: 2024-12-02
 
 This website will take you through a syllabus for a college course titled *History with AI*.
 
-Use the navigation bar at the top of the website to see different views of the syllabus and a bibliography.
+Use the navigation bar at the top of the website to see different views of the syllabus, an AI Usage Statement and a bibliography.
