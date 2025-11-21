@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
 </script>
 
 <br style="clear: both">
-*This the syllabus that the students receive.*
+*This is the syllabus that the students receive.*
 
 # History with AI - Course Syllabus
 HIST 300-009 <br style="clear: both">
