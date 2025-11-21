@@ -1,1 +1,7 @@
 baseurl: /ai-history-syllabus/
+repository: jeseyfried/ai-history-syllabus
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "base"

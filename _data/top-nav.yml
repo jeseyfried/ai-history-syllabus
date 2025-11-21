@@ -1,9 +1,15 @@
 
-- title: "About"
-  url: "/about"
+- title: "Syllabus"
+  url: "/syllabus"
 
-- title: "Scrollstory"
-  url: "/scrollstory"
+- title: "Syllabus with Learning Outcomes"
+  url: "/outcomes"
+
+- title: "Syllabus with Rationale"
+  url: "/rationale"
+
+- title: "AI Usage Statement"
+  url: "/ai-usage"
 
 - title: "Bibliography"
   url: "/bibliography"
