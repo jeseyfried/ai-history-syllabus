@@ -101,10 +101,11 @@ Success in a workshop-style course such as this one depends on regular attendanc
 
 ### Unit 2: Creating (Weeks 5-8)
 ***Week 5*** <br style="clear: both">
-**Day 1:** What to expect from this course <br style="clear: both">
-▪ Assignment due on Day 1: <br style="clear: both">
-**Day 2:** Definitions of AI and History <br style="clear: both">
-▪ Assignment due on Day 2: 
+**Day 1:** Case studies in the opportunities and problems of AI-generated history <br style="clear: both">
+▪ Assignment due on Day 1: Chapters 11 & 12 of *Searches: Selfhood in the Digital Age* by Vauhini **Vara**, Pantheon Books, 2025. <br style="clear: both">
+**Day 2:** The effect of the prompt <br style="clear: both">
+▪ Assignment due on Day 2: 'Google Has a Striking History of Bias Against Black Girls,' by Safiya **Noble**, *TIME*, March 26, 2018. | 'Prompt Engineering: A Comparative Study of Prompting Techniques in AI Language Models,' by Jothan **Almeida**, *2025 IEEE Integrated STEM Education Conference (ISEC)*, March 2025, 1–4. | 'Integrating AI into Art Education: Reimagining Classical Styles with Microsoft Copilot,' by Muwaffaq **Abdulmajid**, *International Journal of Education & the Arts* 26, nos. 23–27 (2025): 1–33. 
+
 
 ***Week 6*** <br style="clear: both">
 **Day 1:** What to expect from this course <br style="clear: both">
