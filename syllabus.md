@@ -106,81 +106,83 @@ Success in a workshop-style course such as this one depends on regular attendanc
 **Day 2:** The effect of the prompt <br style="clear: both">
 ▪ Assignment due on Day 2: 'Google Has a Striking History of Bias Against Black Girls,' by Safiya **Noble**, *TIME*, March 26, 2018. | 'Prompt Engineering: A Comparative Study of Prompting Techniques in AI Language Models,' by Jothan **Almeida**, *2025 IEEE Integrated STEM Education Conference (ISEC)*, March 2025, 1–4. | 'Integrating AI into Art Education: Reimagining Classical Styles with Microsoft Copilot,' by Muwaffaq **Abdulmajid**, *International Journal of Education & the Arts* 26, nos. 23–27 (2025): 1–33. 
 
-
 ***Week 6*** <br style="clear: both">
-**Day 1:** What to expect from this course <br style="clear: both">
-▪ Assignment due on Day 1: <br style="clear: both">
-**Day 2:** Definitions of AI and History <br style="clear: both">
-▪ Assignment due on Day 2: 
+**Day 1:** Compare the gaps in AI-generated history to gaps in traditional scholarship <br style="clear: both">
+▪ Assignment due on Day 1: 'Mussolini and ChatGPT. Examining the Risks of AI Writing Historical Narratives on Fascism,' by Fabio **De Ninno** and Michele **Lacriola**, *Journal of Modern Italian Studies*, 30:2 (2025), 187-209. | 'The Transgender Turn: Eleanor Rykener Speaks Back,' by M.W. **Bychowski** in *Trans Historical: Gender Plurality before the Modern*, edited by Greta LaFleur, Masha Raskolnikov, and Anna Kłosowska. Cornell University Press, 2021. <br style="clear: both">
+**Day 2:** Citation chasing <br style="clear: both">
+▪ Assignment due on Day 2: Pages ix-32 of *The Cheese and the Worms: The Cosmos of a Sixteenth-Century Miller* by Carlo **Ginzburg**, translated by John A. Tedeschi and Anne Tedeschi. Johns Hopkins University Press, 1992.
+
 
 ***Week 7*** <br style="clear: both">
-**Day 1:** What to expect from this course <br style="clear: both">
-▪ Assignment due on Day 1: <br style="clear: both">
-**Day 2:** Definitions of AI and History <br style="clear: both">
-▪ Assignment due on Day 2: 
+**Day 1:** How to recognize outsourced thinking <br style="clear: both">
+▪ Assignment due on Day 1: 'AI and the Death of Student Writing,' by Lisa Lieberman, *The Chronicle of Higher Education*, June 7, 2024. | 'The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers,' by Hao-Ping (Hank) **Lee**, Advait Sarkar, Lev Tankelevitch, et al. *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems*, ACM, April 26, 2025, 1–22. | 'Now the Humanities Can Disrupt ‘AI.’' by Lauren M.E. **Goodlad** and Samuel **Baker**, *Public Books*, February 20, 2023. <br style="clear: both">
+**Day 2:** Normativizing pressures on AI-generated content <br style="clear: both">
+▪ Assignment due on Day 2: Chapter 1 of *UFO Crash at Roswell: The Genesis of a Modern Myth*, by Benson **Saler**, Charles A. Ziegler, and Charles B. Moore. Smithsonian Institution Press, 1997. | Chapter 1 of *UFO Crash at Roswell*, by Kevin D. **Randle** and Donald R. **Schmitt**. Avon Books, 1991.
+
+
 
 ***Week 8*** <br style="clear: both">
-**Day 1:** What to expect from this course <br style="clear: both">
-▪ Assignment due on Day 1: <br style="clear: both">
-**Day 2:** Definitions of AI and History <br style="clear: both">
-▪ Assignment due on Day 2: 
+**Day 1:** A deeper understanding of the opportunities and problems of AI-generated history <br style="clear: both">
+▪ Assignment due on Day 1: No assignment due today but you should be working on Historical Narrative 1 <br style="clear: both">
+**Day 2:** Honing the skill of critiquing AI-generated historical content <br style="clear: both">
+▪ Assignment due on Day 2: Historical Narrative 1
 
 ### Unit 3: Experiments (Weeks 9-12)
 ***Week 9*** <br style="clear: both">
-**Day 1:** What to expect from this course <br style="clear: both">
-▪ Assignment due on Day 1: <br style="clear: both">
-**Day 2:** Definitions of AI and History <br style="clear: both">
-▪ Assignment due on Day 2: 
-
+**Day 1:** Revisiting historical reenactment and introducing critical fabulation <br style="clear: both">
+▪ Assignment due on Day 1: 'Venus in Two Acts,' by Saidiya **Hartman**, *Small Axe: A Caribbean Journal of Criticism* 12, no. 2 (2008): 1–14. | 'Diaspora, Indigeneity, Queer Critique: Tracey Moffatt’s Aesthetics of Dwelling in Displacement,' by Gayatri **Gopinath** in *Women and Migration: Responses in Art and History*, Open Book Publishers, 2019, 345–62. <br style="clear: both">
+**Day 2:** Practice critical fabulation <br style="clear: both">
+▪ Assignment due on Day 2: Excerpt from the Code of **Hammurabi** | Chapter 1 of *Sins against Nature: Sex and Archives in Colonial New Spain* by Zeb **Tortorici**, Duke University Press, 2018. 
+ 
 ***Week 10*** <br style="clear: both">
-**Day 1:** What to expect from this course <br style="clear: both">
-▪ Assignment due on Day 1: <br style="clear: both">
-**Day 2:** Definitions of AI and History <br style="clear: both">
-▪ Assignment due on Day 2: 
+**Day 1:** Contextualization as an exploration of systems of meaning in past societies <br style="clear: both">
+▪ Assignment due on Day 1: 'On the Concept of History,' by Walter **Benjamin** in *Walter Benjamin: Selected Writings, Vol. 4 1938-1940*, translated by Edmund Jephcott and Others, edited by Howard Eiland and Michael W. Jennings, Harvard University Press, 2003. <br style="clear: both">
+**Day 2:** On the blending of mythology, oral tradition, and history <br style="clear: both">
+▪ Assignment due on Day 2: Pages 1-50 of *The Book of Chilam Balam of Chumayel*, translated by Ralph L. Roys, Carnegie Institution, 1933.
 
 ***Week 11*** <br style="clear: both">
-**Day 1:** What to expect from this course <br style="clear: both">
-▪ Assignment due on Day 1: <br style="clear: both">
-**Day 2:** Definitions of AI and History <br style="clear: both">
-▪ Assignment due on Day 2: 
+**Day 1:** Classical Chinese historiography <br style="clear: both">
+▪ Assignment due on Day 1: 'The Story of the Rebel Xiang Yu' by Sima Qian in *The First Emperor: Selections from the Historical Records* by **Sima Qian**, translated by Raymond Dawson, Oxford University Press, 2007. <br style="clear: both">
+**Day 2:** Case studies in regional and temporal biases in AI training sets <br style="clear: both">
+▪ Assignment due on Day 2: 'Iyoba, the Queen Mother of Benin: Images and Ambiguity in Gender and Sex Roles in Court Art,' by Flora Edowaye **Kaplan**, *Art History* 16, no. 3 (1993): 386–407. 
 
 ***Week 12*** <br style="clear: both">
-**Day 1:** What to expect from this course <br style="clear: both">
-▪ Assignment due on Day 1: <br style="clear: both">
-**Day 2:** Definitions of AI and History <br style="clear: both">
-▪ Assignment due on Day 2: 
+**Day 1:** Understanding versus pattern-matching <br style="clear: both">
+▪ Assignment due on Day 1: No assignment due today but you should be working on Report 2 <br style="clear: both">
+**Day 2:** When a historical narrative achieves a tansformative reframing <br style="clear: both">
+▪ Assignment due on Day 2: Report 2
 
 ### Unit 4: Boundaries (Weeks 13-14)
 ***Week 13*** <br style="clear: both">
-**Day 1:** What to expect from this course <br style="clear: both">
-▪ Assignment due on Day 1: <br style="clear: both">
-**Day 2:** Definitions of AI and History <br style="clear: both">
-▪ Assignment due on Day 2: 
+**Day 1:** Going deeper with filter bubbles <br style="clear: both">
+▪ Assignment due on Day 1: Chapter 3 of *Co-Intelligence: Living and Working with AI* by Ethan **Mollick**, Portfolio/Penguin, 2024. <br style="clear: both">
+**Day 2:** Determining ethical constraints for AI-generated historical narratives <br style="clear: both">
+▪ Assignment due on Day 2: Chapters 15 & 16 of *Searches: Selfhood in the Digital Age* by Vauhini **Vara**, Pantheon Books, 2025 | Excerpt from *On Diplomatics* by Jean **Mabillon**, Chapter 8 of *Historians at Work: Volume II* edited by Peter Gay and Victor G. Wexler, Harper & Row, 1972.
 
 ***Week 14*** <br style="clear: both">
-**Day 1:** What to expect from this course <br style="clear: both">
-▪ Assignment due on Day 1: <br style="clear: both">
-**Day 2:** Definitions of AI and History <br style="clear: both">
-▪ Assignment due on Day 2: 
+**Day 1:** The outer limits of AI-generated historical narratives <br style="clear: both">
+▪ Assignment due on Day 1: no assignment due for today but you should be working on Historical Narrative 2<br style="clear: both">
+**Day 2:** Evaluating our experiments in narrative and planning for Historical Narrative 2 <br style="clear: both">
+▪ Assignment due on Day 2: Report 2 results from classmates
 
 ### Unit 5: Writing History with AI (Weeks 15-18)
 ***Week 15*** <br style="clear: both">
-**Day 1:** What to expect from this course <br style="clear: both">
-▪ Assignment due on Day 1: <br style="clear: both">
-**Day 2:** Definitions of AI and History <br style="clear: both">
-▪ Assignment due on Day 2: 
+**Day 1:** The new and changing potential for writing history with AI <br style="clear: both">
+▪ Assignment due on Day 1: 'The Leading AI Models Are Now Good Historians,' by Benjamin **Breen** Substack newsletter. *Res Obscura*, January 22, 2025. <br style="clear: both">
+**Day 2:** The old, the new, and the changing definintions of expertise <br style="clear: both">
+▪ Assignment due on Day 2: Last two chapters and epilogue of *Co-Intelligence: Living and Working with AI* by Ethan **Mollick**, Portfolio/Penguin, 2024. 
 
 ***Week 16*** <br style="clear: both">
-**Day 1:** What to expect from this course <br style="clear: both">
-▪ Assignment due on Day 1: <br style="clear: both">
-**Day 2:** Definitions of AI and History <br style="clear: both">
-▪ Assignment due on Day 2: 
+**Day 1:** Mastery level application of historical thinking to AI-generated content <br style="clear: both">
+▪ Assignment due on Day 1: no assignment due for today but you should be working on Historical Narrative 2 <br style="clear: both">
+**Day 2:** One last round of ethical questions <br style="clear: both">
+▪ Assignment due on Day 2: First check-in for Historical Narrative 2
 
 ***Week 17*** <br style="clear: both">
-**Day 1:** What to expect from this course <br style="clear: both">
-▪ Assignment due on Day 1: <br style="clear: both">
-**Day 2:** Definitions of AI and History <br style="clear: both">
-▪ Assignment due on Day 2: 
+**Day 1:** What further innovations will AI bring to us in the next five years? <br style="clear: both">
+▪ Assignment due on Day 1: no assignment due for today but you should be working on Historical Narrative 2 <br style="clear: both">
+**Day 2:** A final review of the opportunities and problems of writing history with AI <br style="clear: both">
+▪ Assignment due on Day 2: Second check-in for Historical Narrative 2
 
 ***Week 18: Exam Week*** <br style="clear: both">
 **Day 1:** Complete Historical Narrative 2 <br style="clear: both">
@@ -193,7 +195,7 @@ In addition to the descriptions below, you will receive specific assignment inst
 - **Report 1:** For this first report, you will evaluate the historical work of an AI chatbot of your choice on a topic of your choice. You will give the chatbot a series of prompts that you have workshopped in class about the history of your topic. After the chatbot generates an answer for you, or a series of answers, that add up to at least fifteen pages, you will report on the quality of historical thinking demonstrated in the chatbot's answer. You will also conduct your own research on the topic in order to ascertain what relevant historical evidence the chatbot might have excluded in its answer. <br style="clear: both">
 - **Historical Narrative 1:** After several practice rounds in class, you will use at least two AI chatbots to write a historical narrative on a topic of your choice. You will work with the chatbot as a co-intelligence and not as a replacement for your own thinking. The historical narrative will be assessed based on the quality of the historical analysis according to standards for historical writing in peer-reviewed scholarly publications. These criteria include: quality of evidence selected to support an argument, the significance of the evidence makes sense for the narrative's thesis statement, and the causal explanation includes all relevant historical conditions/events. <br style="clear: both">
 - **Report 2:** You will work on this report about halfway through the course. By that time you will have experience with the capabilities and limitations of AI chatbots for constructing historical narrative. In this report, you will carry out experiments in radical new forms for presenting historical content. Based on the work you do in Weeks 9-12 of the course, you will pick two radical new approaches to historical narrative to present to your classmates in this report. Everyone in the class will have access to what everyone else writes for Report 2. <br style="clear: both">
-- **Historical Narrative 2:** This is the culminating product for the class. You can think of this as a repeat of the process for Historical Narrative 1, but this time with additional new flavors that emerged from the work carried out by you and your classmates for Report 2. Based on a new historical topic of your choice you will write another narrative with the co-intelligence of at least two AI chatbots. Your historical narrative will be assessed according to the criteria used for the first one, and also based on how successful you were with the innovations that you chose to include from the experiments profiled in the Report 2 submissions from your classmates.<br style="clear: both">
+- **Historical Narrative 2:** This is the culminating product for the class. You can think of this as a repeat of the process for Historical Narrative 1, but this time with additional new elements and flavors that emerged from the work carried out by you and your classmates for Report 2. Based on a new historical topic of your choice you will write another narrative with the co-intelligence of at least two AI chatbots. Your historical narrative will be assessed according to the criteria used for the first one, and also based on how successful you were with the innovations that you chose to include from the experiments profiled in the Report 2 submissions from your classmates.<br style="clear: both">
 
 ## Grading Scale
 Grades will be assigned on a +/- scale <br style="clear: both">
