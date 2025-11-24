@@ -197,12 +197,13 @@ In addition to the descriptions below, you will receive specific assignment inst
 - **Report 2:** You will work on this report about halfway through the course. By that time you will have experience with the capabilities and limitations of AI chatbots for constructing historical narrative. In this report, you will carry out experiments in radical new forms for presenting historical content. Based on the work you do in Weeks 9-12 of the course, you will pick two radical new approaches to historical narrative to present to your classmates in this report. Everyone in the class will have access to what everyone else writes for Report 2. <br style="clear: both">
 - **Historical Narrative 2:** This is the culminating product for the class. You can think of this as a repeat of the process for Historical Narrative 1, but this time with additional new elements and flavors that emerged from the work carried out by you and your classmates for Report 2. Based on a new historical topic of your choice you will write another narrative with the co-intelligence of at least two AI chatbots. Your historical narrative will be assessed according to the criteria used for the first one, and also based on how successful you were with the innovations that you chose to include from the experiments profiled in the Report 2 submissions from your classmates.<br style="clear: both">
 
-## Grading Scale
+## Grading
+**Scale** <br style="clear: both">
 Grades will be assigned on a +/- scale <br style="clear: both">
 | A 94-100   | A- 90-93   | B+ 87-89   | B 84-86    | B- 80-83   | C+ 77-79    | C 74-76    | C- 70-73 | D 60-69   | F 0-59    |
 
 
-## Grade Components <br style="clear: both">
+**Components** <br style="clear: both">
 In-Class Participation: 20% <br style="clear: both">
 Reading Summary Critiques: 20% <br style="clear: both">
 Report 1: 10% <br style="clear: both">
