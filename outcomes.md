@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
 </script>
 
 <br style="clear: both">
-*This page intersperses the syllabus with the learning outcomes and rationale for each unit and activity.* 
+*This page intersperses the syllabus with learning outcomes, activities and rationales.* 
 
 
 # History with AI - Course Syllabus
@@ -74,12 +74,28 @@ email: jseyfried@unm.edu
 
 **Course Description:** This course explores the ways that the new technology of generative Artificial Intelligence (AI) might influence History in the near and distant future. The course will introduce students to the capabilities and limitations of AI chatbots as tools for creating and influencing historical narratives. Using an experiential and workshop approach, students will use AI chatbots during each class meeting and as tools to enhance their thinking for long term assignments. Writing History with AI is both a journey and a construction project; at first you might get lost or use tools inefficiently. Eventually, though, History with AI will help you access new ways of thinking of the past.
 
+{% include alert.html 
+class="info"
+title="Rationale for the Course"
+text="When it comes to AI chatbots and higher education, there is no way to put the genie back in the bottle. Even if there is no improvement over current models, current AI chatbos possess an immense capability to innovate on the way we think of history. At the same time, great risks abound for those who attempt to outsource thinking to AI and accept its answers without critique. This course will help students to develop tools for usin AI chatbots for knowledge work, not just for the writing of history but for any type of narrative or exposition.
+"
+%}
+
 **Student Learning Outcomes:** <br style="clear: both">
 By the end of this course you will be able to:
 - carefully use AI provocations to enhance your critical thinking skills
 - distinguish between summaries that limit human thinking and lenses that enhance human thinking
 - recognized the tendency for AI chatbots to provide information limited by the normativizing pressures of their training sets
 - write History with AI while thinking of it as a journey and as a construction project
+
+{% include alert.html 
+class="info"
+title="Rationale for the Learning Outcomes"
+text="Looking at the AI statement published by the American Historical Association, the emphasis lies in using AI critically. That's great, but the AHA neglects to provide even a few illustrative examples of how to do that. The learning outcomes for the course fill this gap by using key vocabulary to direct students' attention to the particular critical thinking challenges of using AI chatbots for knowledge work. By focusing on *provocations*, *lenses*, and *normativizing pressures*, consistently throughout the semester, the instructor will instill in the students a deep understanding of how to interact with AI chatbots thoughtfully. The metaphor of journey and construction project will hopefully stick in the students' long term memories when thinking about AI.
+- **Journey:** When you go on a journey, you might have a map ahead of time or at least some preconceptions about what you might encounter. You might follow the paths recommended by others or invent whole new detours. Traditional scholarship has its own pathways, such as citation chasing. AI chatbots take you through pathways based on pattern-matching. Sometimes an AI chatbot will mimic expert citation chasing but often it comes up with very different paths through the information landscape. Whether you take your journey on the route of traditional scholarship or using an AI chatbot, you will be exposed to useful ideas and research leads. There are advantages and disadvantages to both methods of travel. Throughout the semester we will compare the results of each type of travel to see what is emphasized and what is missing.
+- **Construction Project:** To accomplish actual historical thinking with AI chatbots, you cannot submit just one prompt or ask just one question. If you want to get out of simplistic results, you need to practice *multi-shot prompting* and give the AI chatbot a chance to build on its earlier results. For complex analytical tasks such as writing high quality historical narrative, you must think of using AI like you would a crane in a construction project for a skyscraper. You have a powerful tool at your disposal but you have to know how to use it effectively. 
+"
+%}
 
 **Required Readings:** All required readings will be posted to Canvas either as PDFs or links. The links will be to content available at no cost to you, either because they are on free websites or paid for by UNM Libraries.
 
@@ -91,115 +107,372 @@ Success in a workshop-style course such as this one depends on regular attendanc
 ***Week 1*** <br style="clear: both">
 **Day 1:** What to expect from this course <br style="clear: both">
 ▪ No assignment due <br style="clear: both">
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will understand the parameters of the course.
+- Activity: Mix of lecture and Syllabus Scavenger Hunt
+- Activity: Ask an AI chatbot what would be most important to include in a syllabus on History with AI
+"
+%}
 **Day 2:** Definitions of AI and History <br style="clear: both">
 ▪ Assignment due on Day 2: Chapter 1 of *Rethinking History* by Keith **Jenkins** | 'Wine, Cheese and ChatGPT: Ladies’ Night in San Francisco.' by Rachel **Levin**, *The New York Times*, October 20, 2025. 
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will understand the definitions of AI and History.
+- Activity: Methodology lecture
+- Activity: Group Discussion then whole class debrief on the question *what do you think AI chatbots' strengths and weaknesses are for creating history?*
+"
+%}
 
 ***Week 2*** <br style="clear: both">
 **Day 1:** The history of the emergence of generative AI technology and LLMs <br style="clear: both">
 ▪ Assignment due on Day 1: Chapter 1 of *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence* by Kate **Crawford**, Yale University Press, 2021 | Chapter 1 of *AI Snake Oil: What Artificial Intelligence Can Do, What It Can’t, and How to Tell the Difference* by Arvind **Narayana** and Sayash **Kapoor**, Princeton University Press, 2024.<br style="clear: both">
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will situate the emergence of AI in larger historical context.
+- Activity: Short lecture on history of AI
+- Activity: In small groups, query AI chatbots on the history of their existence and whole class debrief
+"
+%}
 **Day 2:** The practice of Historical Thinking <br style="clear: both">
 ▪ Assignment due on Day 2: Chapter 4 of *Why Learn History (When It’s Already on Your Phone)* by Sam **Wineburg**, The University of Chicago Press, 2018 | Chapter 4 of *Co-Intelligence: Living and Working with AI* by Ethan **Mollick**, Portfolio/Penguin, 2024.
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will understand the criteria for historical thinking.
+- Activity: 40-minute workshop on the creation of Columbus Day as a national holiday
+- Activity: Student choice of historical topic for 20-minute group research
+"
+%}
 
 ***Week 3*** <br style="clear: both">
 **Day 1:** How to recognize a historian's expertise <br style="clear: both">
 ▪ Assignment due on Day 1: Chapter 1 of *A Medieval Life: Cecilia Penifader and the World of English Peasants before the Plague* by Judith M. **Bennet**, Revised edition. University of Pennsylvania Press, 2021. <br style="clear: both">
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will understand what differentiates historians' expertise.
+- Activity: Continue group research from last class
+- Activity: Group task on practicing Bennett's methodology
+"
+%}
 **Day 2:** How to recognize silences and active silencing in the historical record <br style="clear: both">
 ▪ Assignment due on Day 2: Chapter 1 of *Silencing the Past: Power and the Production of History* by Michel-Rolph **Trouillot**, Beacon Press, 2015 | 'Building Ignorance by Disseminating ‘Evidence’: An Agnotological Look into the Digital Archives of the Islamic Republic of Iran,' by Natalia **Pashkeeva**, *Archival Science* 24, no. 3 (2024): 455–79. 
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will understand historical silencing.
+- Activity: Exercise on historical silencing
+- Activity: Visit to the National Archives of Iran
+"
+%}
+
 
 ***Week 4*** <br style="clear: both">
 **Day 1:** How methods of using evidence connect to definitions of expertise <br style="clear: both">
 ▪ Assignment due on Day 1: No assignment due today but you should be working on Report 1 <br style="clear: both">
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will connect uses of evidence to definitions of expertise.
+- Activity: In-class work time for Report 1
+- Activity: Share out of progress on Report 1
+"
+%}
 **Day 2:** Debrief of Report 1 and predictions for what will come next <br style="clear: both">
 ▪ Assignment due on Day 2: Report 1
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will draw conclusions about how AI Chatbots interact with historical expertise.
+- Activity: Group task on debrief for Report 1
+- Activity: Refreshing memories of what is on the syllabus for this course
+"
+%}
 
 ### Unit 2: Creating (Weeks 5-8)
 ***Week 5*** <br style="clear: both">
 **Day 1:** Case studies in the opportunities and problems of AI-generated history <br style="clear: both">
 ▪ Assignment due on Day 1: Chapters 11 & 12 of *Searches: Selfhood in the Digital Age* by Vauhini **Vara**, Pantheon Books, 2025. <br style="clear: both">
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will understand the problems and opportunities of AI generated historical reenactments.
+- Activity: TBD
+"
+%}
 **Day 2:** The effect of the prompt <br style="clear: both">
 ▪ Assignment due on Day 2: 'Google Has a Striking History of Bias Against Black Girls,' by Safiya **Noble**, *TIME*, March 26, 2018. | 'Prompt Engineering: A Comparative Study of Prompting Techniques in AI Language Models,' by Jothan **Almeida**, *2025 IEEE Integrated STEM Education Conference (ISEC)*, March 2025, 1–4. | 'Integrating AI into Art Education: Reimagining Classical Styles with Microsoft Copilot,' by Muwaffaq **Abdulmajid**, *International Journal of Education & the Arts* 26, nos. 23–27 (2025): 1–33. 
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will understand the effects of complex prompts for AI chatbot content.
+- Activity: TBD
+"
+%}
 
 ***Week 6*** <br style="clear: both">
 **Day 1:** Compare the gaps in AI-generated history to gaps in traditional scholarship <br style="clear: both">
 ▪ Assignment due on Day 1: 'Mussolini and ChatGPT. Examining the Risks of AI Writing Historical Narratives on Fascism,' by Fabio **De Ninno** and Michele **Lacriola**, *Journal of Modern Italian Studies*, 30:2 (2025), 187-209. | 'The Transgender Turn: Eleanor Rykener Speaks Back,' by M.W. **Bychowski** in *Trans Historical: Gender Plurality before the Modern*, edited by Greta LaFleur, Masha Raskolnikov, and Anna Kłosowska. Cornell University Press, 2021. <br style="clear: both">
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will understand the need to recognize gaps in any historical narrative.
+- Activity: TBD
+"
+%}
 **Day 2:** Citation chasing <br style="clear: both">
 ▪ Assignment due on Day 2: Pages ix-32 of *The Cheese and the Worms: The Cosmos of a Sixteenth-Century Miller* by Carlo **Ginzburg**, translated by John A. Tedeschi and Anne Tedeschi. Johns Hopkins University Press, 1992.
-
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will understand the process of citation chasing.
+- Activity: TBD
+"
+%}
 
 ***Week 7*** <br style="clear: both">
 **Day 1:** How to recognize outsourced thinking <br style="clear: both">
 ▪ Assignment due on Day 1: 'AI and the Death of Student Writing,' by Lisa Lieberman, *The Chronicle of Higher Education*, June 7, 2024. | 'The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers,' by Hao-Ping (Hank) **Lee**, Advait Sarkar, Lev Tankelevitch, et al. *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems*, ACM, April 26, 2025, 1–22. | 'Now the Humanities Can Disrupt ‘AI.’' by Lauren M.E. **Goodlad** and Samuel **Baker**, *Public Books*, February 20, 2023. <br style="clear: both">
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will develop a sharp awareness of the signs of outsourced thinking.
+- Activity: TBD
+"
+%}
 **Day 2:** Normativizing pressures on AI-generated content <br style="clear: both">
 ▪ Assignment due on Day 2: Chapter 1 of *UFO Crash at Roswell: The Genesis of a Modern Myth*, by Benson **Saler**, Charles A. Ziegler, and Charles B. Moore. Smithsonian Institution Press, 1997. | Chapter 1 of *UFO Crash at Roswell*, by Kevin D. **Randle** and Donald R. **Schmitt**. Avon Books, 1991.
-
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will understand the role of normativizing pressure in AI generated content.
+- Activity: TBD
+"
+%}
 
 
 ***Week 8*** <br style="clear: both">
 **Day 1:** A deeper understanding of the opportunities and problems of AI-generated history <br style="clear: both">
 ▪ Assignment due on Day 1: No assignment due today but you should be working on Historical Narrative 1 <br style="clear: both">
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will experience the challenges and opportunities of creating history with AI
+- Activity: In-class workshopping of Historical Narrative 1
+"
+%}
 **Day 2:** Honing the skill of critiquing AI-generated historical content <br style="clear: both">
 ▪ Assignment due on Day 2: Historical Narrative 1
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will deepen their skills in critiquing AI generated historical content.
+- Activity: Debrief Historical Narrative 1
+- Activity: Optional extra credit presentations on Historical Narrative 1
+"
+%}
 
 ### Unit 3: Experiments (Weeks 9-12)
 ***Week 9*** <br style="clear: both">
 **Day 1:** Revisiting historical reenactment and introducing critical fabulation <br style="clear: both">
 ▪ Assignment due on Day 1: 'Venus in Two Acts,' by Saidiya **Hartman**, *Small Axe: A Caribbean Journal of Criticism* 12, no. 2 (2008): 1–14. | 'Diaspora, Indigeneity, Queer Critique: Tracey Moffatt’s Aesthetics of Dwelling in Displacement,' by Gayatri **Gopinath** in *Women and Migration: Responses in Art and History*, Open Book Publishers, 2019, 345–62. <br style="clear: both">
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will re-evaluate their earlier conclusions about AI for historical reenactment.
+- Activity: TBD
+"
+%}
 **Day 2:** Practice critical fabulation <br style="clear: both">
 ▪ Assignment due on Day 2: Excerpt from the Code of **Hammurabi** | Chapter 1 of *Sins against Nature: Sex and Archives in Colonial New Spain* by Zeb **Tortorici**, Duke University Press, 2018. 
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will practice critical fabulation.
+- Activity: Group task using AI chatbots to carry out critical fabulation for silenced historical subjects in Ancient Mesopotamia and Colonial New Spain.
+"
+%}
  
 ***Week 10*** <br style="clear: both">
 **Day 1:** Contextualization as an exploration of systems of meaning in past societies <br style="clear: both">
 ▪ Assignment due on Day 1: 'On the Concept of History,' by Walter **Benjamin** in *Walter Benjamin: Selected Writings, Vol. 4 1938-1940*, translated by Edmund Jephcott and Others, edited by Howard Eiland and Michael W. Jennings, Harvard University Press, 2003. <br style="clear: both">
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will understand contextualization as a description of systems of meaning in past societies.
+- Activity: Individual effort, then compare in groups, for use of AI to elucidate the context-bound ideas of Walter Benjamin and the elements of transhistorical philosophy of history in his piece *On the Concept of History*.
+"
+%}
 **Day 2:** On the blending of mythology, oral tradition, and history <br style="clear: both">
 ▪ Assignment due on Day 2: Pages 1-50 of *The Book of Chilam Balam of Chumayel*, translated by Ralph L. Roys, Carnegie Institution, 1933.
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will practice blending mythology, oral tradition, and history.
+- Activity: As a group task, create a guidance document for high school students writing history dependent on the use of mythological texts with the help of AI
+"
+%}
 
 ***Week 11*** <br style="clear: both">
 **Day 1:** Classical Chinese historiography <br style="clear: both">
 ▪ Assignment due on Day 1: 'The Story of the Rebel Xiang Yu' by Sima Qian in *The First Emperor: Selections from the Historical Records* by **Sima Qian**, translated by Raymond Dawson, Oxford University Press, 2007. <br style="clear: both">
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will assess AI chatbots skill in reproducing Classical Chinese Historiography.
+- Activity: Group task with each group assigned a different AI chatbot to produce history in the style of Sima Qian.
+"
+%}
 **Day 2:** Case studies in regional and temporal biases in AI training sets <br style="clear: both">
 ▪ Assignment due on Day 2: 'Iyoba, the Queen Mother of Benin: Images and Ambiguity in Gender and Sex Roles in Court Art,' by Flora Edowaye **Kaplan**, *Art History* 16, no. 3 (1993): 386–407. 
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will attempt to overcome the regional and temporal biases of AI training sets.
+- Activity: Create guidance for high school students researching premodern history of regions of Africa
+"
+%}
 
 ***Week 12*** <br style="clear: both">
 **Day 1:** Understanding versus pattern-matching <br style="clear: both">
 ▪ Assignment due on Day 1: No assignment due today but you should be working on Report 2 <br style="clear: both">
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will understand the difference between pattern matching and understanding.
+- Activity: In-class workshopping of Report 2
+"
+%}
 **Day 2:** When a historical narrative achieves a tansformative reframing <br style="clear: both">
 ▪ Assignment due on Day 2: Report 2
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will recognize when a historical narrative achieves a transformative reframing.
+- Activity: Shareout of Report 2 conclusions
+"
+%}
 
 ### Unit 4: Boundaries (Weeks 13-14)
 ***Week 13*** <br style="clear: both">
 **Day 1:** Going deeper with filter bubbles <br style="clear: both">
 ▪ Assignment due on Day 1: Chapter 3 of *Co-Intelligence: Living and Working with AI* by Ethan **Mollick**, Portfolio/Penguin, 2024. <br style="clear: both">
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will fully describe the limitations imposed by filter bubbles.
+- Activity: Groups draft guidelines and practices for how to account for filter bubbles when working with AI chatbots to create historical narratives
+"
+%}
 **Day 2:** Determining ethical constraints for AI-generated historical narratives <br style="clear: both">
 ▪ Assignment due on Day 2: Chapters 15 & 16 of *Searches: Selfhood in the Digital Age* by Vauhini **Vara**, Pantheon Books, 2025 | Excerpt from *On Diplomatics* by Jean **Mabillon**, Chapter 8 of *Historians at Work: Volume II* edited by Peter Gay and Victor G. Wexler, Harper & Row, 1972.
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will decide on ethical constraints for AI generated historical narratives.
+- Activity: In small groups, with whole-class debrief at the end, create comparison charts for Vara and Mabillon
+"
+%}
 
 ***Week 14*** <br style="clear: both">
 **Day 1:** The outer limits of AI-generated historical narratives <br style="clear: both">
 ▪ Assignment due on Day 1: no assignment due for today but you should be working on Historical Narrative 2<br style="clear: both">
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will describe the outer limits of AI generated historical narratives.
+- Activity: Workshop initial stages of Historical Narrative 2
+"
+%}
 **Day 2:** Evaluating our experiments in narrative and planning for Historical Narrative 2 <br style="clear: both">
 ▪ Assignment due on Day 2: Report 2 results from classmates
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will connect the results of their experiments to their planning of their second Historical Narrative.
+- Activity: Rotation activity in which students share their Report 2 results with each other and do their best to incorporate their classmates' Report 2 results into an experimental element in their own Historical Narrative 2.
+"
+%}
 
 ### Unit 5: Writing History with AI (Weeks 15-18)
 ***Week 15*** <br style="clear: both">
 **Day 1:** The new and changing potential for writing history with AI <br style="clear: both">
 ▪ Assignment due on Day 1: 'The Leading AI Models Are Now Good Historians,' by Benjamin **Breen** Substack newsletter. *Res Obscura*, January 22, 2025. <br style="clear: both">
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will understand the current potential for writing history with AI.
+- Activity: Whole-class discussion on how Breen's observations will affect the process for creating Historical Narrative 2
+- Activity: Workshop outlines for Historical Narrative 2
+"
+%}
 **Day 2:** The old, the new, and the changing definintions of expertise <br style="clear: both">
 ▪ Assignment due on Day 2: Last two chapters and epilogue of *Co-Intelligence: Living and Working with AI* by Ethan **Mollick**, Portfolio/Penguin, 2024. 
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will understand the relationship between expertise and AI generated material.
+- Activity: Workshop on recognizing expertise and recognizing the lack of expertise
+- Activity: Pair work to help determine what expertise looks like for the topics the students have chosen for Historical Narrative 2
+"
+%}
 
 ***Week 16*** <br style="clear: both">
 **Day 1:** Mastery level application of historical thinking to AI-generated content <br style="clear: both">
 ▪ Assignment due on Day 1: no assignment due for today but you should be working on Historical Narrative 2 <br style="clear: both">
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will understand the importance of applying historical thinking to AI generated material.
+- Activity: Workshop results of multi-prompt AI-generated historical content for topics chosen for Historical Narrative 2
+"
+%}
 **Day 2:** One last round of ethical questions <br style="clear: both">
 ▪ Assignment due on Day 2: First check-in for Historical Narrative 2
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will evaluate the ethics of using AI to write history.
+- Activity: Peer edits for Historical Narrative 2
+"
+%}
 
 ***Week 17*** <br style="clear: both">
 **Day 1:** What further innovations will AI bring to us in the next five years? <br style="clear: both">
 ▪ Assignment due on Day 1: no assignment due for today but you should be working on Historical Narrative 2 <br style="clear: both">
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will understand the potentialities for AI-generated historical content in the next five years.
+- Activity: Optional presentations on Historical Narrative 2
+- Activity: In-class time to work on Historical Narrative 2
+"
+%}
 **Day 2:** A final review of the opportunities and problems of writing history with AI <br style="clear: both">
 ▪ Assignment due on Day 2: Second check-in for Historical Narrative 2
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will understand all the major pitfalls of using AI to write history.
+- Activity: Optional presentations on Historical Narrative 2
+- Activity: In-class time to work on Historical Narrative 2
+"
+%}
 
 ***Week 18: Exam Week*** <br style="clear: both">
 **Day 1:** Complete Historical Narrative 2 <br style="clear: both">
 ▪ Assignment due on Day 1: Historical Narrative 2<br style="clear: both">
+{% include alert.html 
+class="info"
+text="
+- Learning Outcome: Students will use AI to create a historical narrative and to create a metacognitive report on the process.
+- Activity: Turn in Historical Narrative 2
+"
+%}
 
 
 ## Assignments
