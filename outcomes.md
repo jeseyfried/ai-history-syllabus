@@ -210,7 +210,7 @@ text="
 class="info"
 text="
 - Learning Outcome: Students will understand the problems and opportunities of AI generated historical reenactments.
-- Activity: TBD
+- Activity: Drawing on your completed AI Reading Summary Critiques (the homework due today), assemble evidence for a presentation to high school students about the dangers of using AI image generation for historical reenactments.
 "
 %}
 **Day 2:** The effect of the prompt <br style="clear: both">
@@ -219,7 +219,7 @@ text="
 class="info"
 text="
 - Learning Outcome: Students will understand the effects of complex prompts for AI chatbot content.
-- Activity: TBD
+- Activity: In small groups, experiment with multi-shot prompting through planning out prompts ahead of time and seeing what they generate.
 "
 %}
 
@@ -230,7 +230,7 @@ text="
 class="info"
 text="
 - Learning Outcome: Students will understand the need to recognize gaps in any historical narrative.
-- Activity: TBD
+- Activity: In pairs, work with your AI Reading Summary Critiques (the homework due today) to understand how much the AI chatbot resolves gaps in traditional scholarship. Guiding question: *What evidence is there that ChatGPT does better now at prompts about Mussolini versus how it did a year ago?* 
 "
 %}
 **Day 2:** Citation chasing <br style="clear: both">
@@ -239,7 +239,7 @@ text="
 class="info"
 text="
 - Learning Outcome: Students will understand the process of citation chasing.
-- Activity: TBD
+- Activity: Small groups work together to replicate Ginzburg's process of citation chasing to reconstruct Menochio's reading list.
 "
 %}
 
@@ -250,7 +250,7 @@ text="
 class="info"
 text="
 - Learning Outcome: Students will develop a sharp awareness of the signs of outsourced thinking.
-- Activity: TBD
+- Activity: In groups of four or six, students go through a [Structured Academic Controversy](https://serc.carleton.edu/sp/library/sac/index.html) on the topic of Generative AI's effect on the critical thinking mission of higher education. 
 "
 %}
 **Day 2:** Normativizing pressures on AI-generated content <br style="clear: both">
@@ -259,7 +259,8 @@ text="
 class="info"
 text="
 - Learning Outcome: Students will understand the role of normativizing pressure in AI generated content.
-- Activity: TBD
+- Activity: Working individually, students will attempt to manipulate an AI chatbot into admitting the possibility of an alien crash landing near Roswell in 1947. Whoever gets the chatbot furthest into conspiracy theory wins.
+- Whole-class discussion on the question: *what are the benefits and drawbacks to the normativizing pressure programmed into AI chatbots?*
 "
 %}
 
@@ -293,7 +294,7 @@ text="
 class="info"
 text="
 - Learning Outcome: Students will re-evaluate their earlier conclusions about AI for historical reenactment.
-- Activity: TBD
+- Activity: In small gropus, use AI chatbots to imagine, with detail, the queer and/or subaltern archive that does not exist for a specific time and place for which we lack such an archive.
 "
 %}
 **Day 2:** Practice critical fabulation <br style="clear: both">
@@ -303,6 +304,7 @@ class="info"
 text="
 - Learning Outcome: Students will practice critical fabulation.
 - Activity: Group task using AI chatbots to carry out critical fabulation for silenced historical subjects in Ancient Mesopotamia and Colonial New Spain.
+- Activity: Create guidelines for best practices of AI co-authoring for narrative reconstructions of historical subjects.
 "
 %}
  
@@ -487,10 +489,36 @@ text="
 ## Assignments
 In addition to the descriptions below, you will receive specific assignment instructions for the Reports and Historical Narratives. <br style="clear: both">
 - **Critiques of AI Reading Summaries:** You must complete this assignment for every class that a reading is assigned. For one of the assigned readings, you will turn in an AI-generated summary along with your critique of it. For days with more than one reading assigned, you choose one. To generate the summary, you can choose whether to prompt the AI chatbot to produce a simple summary or to challenge the chatbot to a higher level analysis of the reading. The next step is the **most important part**: write at least ten thoughtful comments on what the chatbot created for that reading, evaluating the strengths and weaknesses of the chatbot's analysis compared to the understanding you developed from the assigned reading. You will be graded on the extent to which the final product reflects your judgment, your understanding, and your cognitive effort. <br style="clear: both">
+{% include alert.html 
+class="info"
+text=" Rationale: Probably the most important takeaway from the course will be to instill in the students a habit of mind to check what they get when an AI chatbot answers their prompts. Ideally, the regular practice of checking an AI summary will become second-nature by the end of the semester. As I read the critiques of what AI produces, I expect that at the start of the semester, students will not catch all the times that the chatbot skimps on the relevant evidence or fails at logical cohesion. By the end of the semester, the students' comments should reflect growth in understanding of historical thinking as well as familiarity with terms such as *filter bubble* and *pattern-matching*.
+"
+%}
 - **Report 1:** For this first report, you will evaluate the historical work of an AI chatbot of your choice on a topic of your choice. You will give the chatbot a series of prompts that you have workshopped in class about the history of your topic. After the chatbot generates an answer for you, or a series of answers, that add up to at least fifteen pages, you will report on the quality of historical thinking demonstrated in the chatbot's answer. You will also conduct your own research on the topic in order to ascertain what relevant historical evidence the chatbot might have excluded in its answer. You will be graded on the extent to which the final product reflects your judgment, your understanding, and your cognitive effort.  <br style="clear: both">
+{% include alert.html 
+class="info"
+text=" Rationale: This assignment is meant to help students see that AI chatbots can be very useful, if one keeps in mind the pitfalls of using it. This is when the students will start to work with AI generated content as a lens.
+"
+%}
 - **Historical Narrative 1:** After several practice rounds in class, you will use at least two AI chatbots to write a historical narrative on a topic of your choice. You will work with the chatbot as a co-intelligence and not as a replacement for your own thinking. The historical narrative will be assessed based on the quality of the historical analysis according to standards for historical writing in peer-reviewed scholarly publications. These criteria include: quality of evidence selected to support an argument, the significance of the evidence makes sense for the narrative's thesis statement, and the causal explanation includes all relevant historical conditions/events. You will also be graded on the extent to which the final product reflects your judgment, your understanding, and your cognitive effort.  <br style="clear: both">
+{% include alert.html 
+class="info"
+text=" Rationale: This first comprehensive historical narrative will allow students to try their hand at using AI to write history. As they are workshopping this product, I expect to hear students using the metaphors of journey and construction project. The students should be able to talk about what ideas AI has presented to them in terms of provocation, as distinct from simply being a passive recipient of answers. Students will receive a rubric for this assignment that clearly communicates to them that their final grade depends on logical use of relevant evidence to support a causal explanation of past events or past perspectives on events.
+"
+%}
 - **Report 2:** You will work on this report about halfway through the course. By that time you will have experience with the capabilities and limitations of AI chatbots for constructing historical narrative. In this report, you will carry out experiments in radical new forms for presenting historical content. Based on the work you do in Weeks 9-12 of the course, you will pick two radical new approaches to historical narrative to present to your classmates in this report. Everyone in the class will have access to what everyone else writes for Report 2. You will also be graded on the extent to which the final product reflects your judgment, your understanding, and your cognitive effort.  <br style="clear: both">
-- **Historical Narrative 2:** This is the culminating product for the class. You can think of this as a repeat of the process for Historical Narrative 1, but this time with additional new elements and flavors that emerged from the work carried out by you and your classmates for Report 2. Based on a new historical topic of your choice you will write another narrative with the co-intelligence of at least two AI chatbots. Your historical narrative will be assessed according to the criteria used for the first one, and also based on how successful you were with the innovations that you chose to include from the experiments profiled in the Report 2 submissions from your classmates. You will also be graded on the extent to which the final product reflects your judgment, your understanding, and your cognitive effort. <br style="clear: both">
+{% include alert.html 
+class="info"
+text=" Rationale: This assignment invites surprise for the instructor. The *Experiments* unit will hopefully produce ideas and methodologies that the students originate. For this Report, I will encourage the students to think radically about how to create historical narrative, to speculate about new meanings of history, and to think in bizarre ways. Each student's two new approaches should reflect aspects of their own positionality and perspective.
+"
+%}
+- **Historical Narrative 2:** This is the culminating product for the class. You can think of this as a repeat of the process for Historical Narrative 1, but this time with additional new elements and flavors that emerged from the work carried out by you and your classmates for Report 2. Based on a new historical topic of your choice you will write another narrative with the co-intelligence of at least two AI chatbots. Your historical narrative will be assessed according to the criteria used for the first one, and also based on how successful you were with the innovations that you chose to include from the experiments profiled in the Report 2 submissions from your classmates. You will also be graded on the extent to which the final product reflects your judgment, your understanding, and your cognitive effort. 
+{% include alert.html 
+class="info"
+text=" Rationale: Here is the final journey and last construction project of the course. In this historical narrative, I hope to see the students putting all the different concepts, discussions, provocations, and lenses to good use. In this assignment, the students must *leverage* AI to do new interesting things in the writing of History. 
+"
+%}
+<br style="clear: both">
 
 ## Grading
 **Scale** <br style="clear: both">
