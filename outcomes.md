@@ -77,7 +77,7 @@ email: jseyfried@unm.edu
 {% include alert.html 
 class="info"
 title="Rationale for the Course"
-text="When it comes to AI chatbots and higher education, there is no way to put the genie back in the bottle. Even if there is no improvement over current models, current AI chatbos possess an immense capability to innovate on the way we think of history. At the same time, great risks abound for those who attempt to outsource thinking to AI and accept its answers without critique. This course will help students to develop tools for usin AI chatbots for knowledge work, not just for the writing of history but for any type of narrative or exposition.
+text="When it comes to AI chatbots and higher education, there is no way to put the genie back in the bottle. Even if there is no improvement over current models, current AI chatbots possess an immense capability to innovate the way we think of history. At the same time, great risks abound for those who attempt to outsource thinking to AI and accept its answers without critique. This course will help students to develop tools for using AI chatbots for knowledge work, not just for the writing of history but for any type of narrative or exposition.
 "
 %}
 
@@ -91,11 +91,11 @@ By the end of this course you will be able to:
 {% include alert.html 
 class="info"
 title="Rationale for the Learning Outcomes"
-text="Looking at the AI statement published by the American Historical Association, the emphasis lies in using AI critically. That's great, but the AHA neglects to provide even a few illustrative examples of how to do that. The learning outcomes for the course fill this gap by using key vocabulary to direct students' attention to the particular critical thinking challenges of using AI chatbots for knowledge work. By focusing on *provocations*, *lenses*, and *normativizing pressures*, consistently throughout the semester, the instructor will instill in the students a deep understanding of how to interact with AI chatbots thoughtfully.[^sarkar]
+text="Looking at the [AI statement](https://www.historians.org/resource/guiding-principles-for-artificial-intelligence-in-history-education/) published by the American Historical Association, the emphasis lies in using AI critically. That's great, but the AHA neglects to provide even a few illustrative examples of how to do that. The learning outcomes for the course fill this gap by using key vocabulary to direct students' attention to the particular critical thinking challenges of using AI chatbots for knowledge work. By focusing on *provocations*, *lenses*, and *normativizing pressures*, consistently throughout the semester, the instructor will instill in the students a deep understanding of how to interact with AI chatbots thoughtfully.[^sarkar]
 
 [^sarkar]:I am indebted to [Advait Sarkar](https://www.ted.com/talks/advait_sarkar_how_to_stop_ai_from_killing_your_critical_thinking/transcript) for his use of *provocations* and *lenses* to describe critical thinking uses of AI-generated content.
 
-The metaphor of journey and construction project will hopefully stick in the students' long term memories when thinking about AI.
+The metaphors of journey and construction project will hopefully stick in the students' long-term memories when thinking about AI.
 - **Journey:** When you go on a journey, you might have a map ahead of time or at least some preconceptions about what you might encounter. You might follow the paths recommended by others or invent whole new detours. Traditional scholarship has its own pathways, such as citation chasing. AI chatbots take you through pathways based on pattern-matching. Sometimes an AI chatbot will mimic expert citation chasing but often it comes up with very different paths through the information landscape. Whether you take your journey on the route of traditional scholarship or using an AI chatbot, you will be exposed to useful ideas and research leads. There are advantages and disadvantages to both methods of travel. Throughout the semester we will compare the results of each type of travel to see what is emphasized and what is missing.
 - **Construction Project:** To accomplish actual historical thinking with AI chatbots, you cannot submit just one prompt or ask just one question. If you want to get more than simplistic answers, you need to practice *multi-shot prompting* and give the AI chatbot a chance to build on its earlier results. For complex analytical tasks such as writing high quality historical narrative, you must think of using AI like you would a crane in a construction project for a skyscraper. You have a powerful tool at your disposal but you have to know how to use it effectively.
 "
@@ -239,7 +239,7 @@ text="
 class="info"
 text="
 - Learning Outcome: Students will understand the process of citation chasing.
-- Activity: Small groups work together to replicate Ginzburg's process of citation chasing to reconstruct Menochio's reading list.
+- Activity: Small groups work together to replicate Ginzburg's process of citation chasing to reconstruct Menocchio's reading list.
 "
 %}
 
@@ -412,7 +412,7 @@ text="
 ### Unit 5: Writing History with AI (Weeks 15-18)
 ***Week 15*** <br style="clear: both">
 **Day 1:** The new and changing potential for writing history with AI <br style="clear: both">
-▪ Assignment due on Day 1: 'The Leading AI Models Are Now Good Historians,' by Benjamin **Breen** Substack newsletter. *Res Obscura*, January 22, 2025. <br style="clear: both">
+▪ Assignment due on Day 1: 'The Leading AI Models Are Now Good Historians,' by Benjamin **Breen**, Substack newsletter. *Res Obscura*, January 22, 2025. <br style="clear: both">
 {% include alert.html 
 class="info"
 text="
