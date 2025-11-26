@@ -59,6 +59,12 @@ TOPNAV
   transition: background-color var(--transition-fast), color var(--transition-fast);
 }
 
+.navbar-brand,
+.navbar-brand:hover,
+.navbar-brand:focus {
+  color: #b8614b !important;
+}
+
 .navbar-nav a:hover,
 .navbar-nav a.active {
   /* Typography */

@@ -294,7 +294,7 @@ text="
 class="info"
 text="
 - Learning Outcome: Students will re-evaluate their earlier conclusions about AI for historical reenactment.
-- Activity: In small gropus, use AI chatbots to imagine, with detail, the queer and/or subaltern archive that does not exist for a specific time and place for which we lack such an archive.
+- Activity: In small groups, use AI chatbots to imagine, with detail, the queer and/or subaltern archive that does not exist for a specific time and place for which we lack such an archive.
 "
 %}
 **Day 2:** Practice critical fabulation <br style="clear: both">
@@ -358,7 +358,7 @@ text="
 - Activity: In-class workshopping of Report 2
 "
 %}
-**Day 2:** When a historical narrative achieves a tansformative reframing <br style="clear: both">
+**Day 2:** When a historical narrative achieves a transformative reframing <br style="clear: both">
 ▪ Assignment due on Day 2: Report 2
 {% include alert.html 
 class="info"
@@ -421,7 +421,7 @@ text="
 - Activity: Workshop outlines for Historical Narrative 2
 "
 %}
-**Day 2:** The old, the new, and the changing definintions of expertise <br style="clear: both">
+**Day 2:** The old, the new, and the changing definitions of expertise <br style="clear: both">
 ▪ Assignment due on Day 2: Last two chapters and epilogue of *Co-Intelligence: Living and Working with AI* by Ethan **Mollick**, Portfolio/Penguin, 2024. 
 {% include alert.html 
 class="info"
