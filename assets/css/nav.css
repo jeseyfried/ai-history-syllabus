@@ -34,7 +34,7 @@ TOPNAV
 
 .navbar-brand:hover {
   /* Typography */
-  color: var(--text-tertiary) !important;
+  color: #b8614b !important;
 }
 
 .navbar-nav {
