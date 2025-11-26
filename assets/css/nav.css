@@ -62,7 +62,7 @@ TOPNAV
 .navbar-nav a:hover,
 .navbar-nav a.active {
   /* Typography */
-  color: var(--text-tertiary);
+  color: #b8614b;
   
   /* Visual */
   background: var(--interactive-hover);
