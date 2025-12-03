@@ -16,7 +16,7 @@ assets/images/vara2.jpg" | split: ','
 %}
 
 {% include carousel.html
-width = "80%"
+width = "100%"
 class = "center"
 images = images
 headers = headers
