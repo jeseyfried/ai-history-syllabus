@@ -4,9 +4,9 @@ layout: base
 date: 2024-12-02
 ---
 
-# Three Books
+# Three Core Texts
 
-## These books were central to my thinking about this course.
+### These books were central to my thinking about this course.
 
 {% 
 assign images = 
