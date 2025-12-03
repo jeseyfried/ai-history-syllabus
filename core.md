@@ -4,7 +4,9 @@ layout: base
 date: 2024-12-02
 ---
 
-# Three Books Central to My Thinking About This Course
+# Three Books
+
+## These books were central to my thinking about this course.
 
 {% 
 assign images = 
@@ -14,9 +16,19 @@ assets/images/vara2.jpg" | split: ','
 %}
 
 {% include carousel.html
-width = "60%"
-class = "right"
+width = "80%"
+class = "center"
 images = images
 headers = headers
 captions = captions 
 %}
+
+<br style="clear: both">
+
+<br style="clear: both">
+
+<br style="clear: both">
+
+<br style="clear: both">
+
+<br style="clear: both">
