@@ -21,7 +21,7 @@ Claude also provided me with a very useful statement, 'pattern matching is not t
 ## A Case Study for Writing History with AI 
 This case study's topic is the creation of Columbus Day as a national holiday, and is an exercise in analyzing historical thinking as a baseline for what AI chatbots can do for writing history and for becoming aware of filter bubbles.[^presentation] The students will replicate this exercise on Day 2 of Week 2.
 
-[^presentation]:I shared this case study in my PhD Public Presentation on November 1, 2025.
+[^presentation]:I shared this case study in my PhD Public Presentation on November 3, 2025.
 
 Sam Wineburg is one of the most well-respected writers in history education. He has spent the last thirty years investigating how students, as well as the general public, construct their understandings of historical events. You can see the origins of my thinking on the importance of iterative questioning from this quote from Wineburg: “True historical inquiry must end where it begins: with a question mark.”[^wineburg1] 
 
