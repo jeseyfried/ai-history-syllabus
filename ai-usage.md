@@ -14,7 +14,7 @@ Below is my prompt for experimental methodologies using AI chatbots. This prompt
 
 > At this point, I would like you to review everything in this chat string and then make reasoned but highly creative speculations about what new methodological approaches might emerge in the next twenty years. Please mark these answers according to how experimental or creative you are being. I'm not interested as much in likelihood as I am in seeing a large range in what might happen next. For example, how would AI approach methodology in ways that are dramatically different from the types of methodologies that have emerged in the last century? [Chat GPT report →](pdfs/chat-gpt-methdology-to-ai.pdf)
 
-In my work with Anthropic's Claude chatbot, I decided to do a single-shot prompt to see what its research-oriented model would create. I thought that Claude's interpretation of AI's potentials and limits highly accurate. Claude titled the last section 'Looking forward: Historians as essential interpreters of an AI-augmented world.' 
+In my work with Anthropic's Claude chatbot, I decided to do a single-shot prompt to see what its research-oriented model would create. I thought that Claude's interpretation of AI's potentials and limits was highly accurate. Claude titled the last section 'Looking forward: Historians as essential interpreters of an AI-augmented world.' 
 
 Claude also provided me with a very useful statement, 'pattern matching is not the same as understanding.' I felt that was an excellent way to phrase the difference between what LLMs generate and the type of learning that humans do. [Claude research report →](pdfs/claude-history-with-ai.pdf)
 
