@@ -29,7 +29,7 @@ Sam Wineburg is one of the most well-respected writers in history education. He 
 
 {% include figure.html
   class="right"
-  width="50%"
+  width="35%"
   caption=" 'Discovery Day. October 21 Proclaimed a National Holiday by the President,' *New York Times*, July 22, 1892"
   image-path="/assets/images/nyt.png"
 %}
